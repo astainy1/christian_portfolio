@@ -1,0 +1,11 @@
+body{
+    max-width: 80%;
+    box-sizing: content-box;
+    margin: 0 auto;
+}
+
+h1{
+    background-color: red;
+    color: #fff;
+    text-align: center;
+}
